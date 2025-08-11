@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Rodrigo! 👋 (English below!)
+# Olá, eu sou o Rodrigo! 👋 (English below)
 
 
 ## 🚀 Sobre mim
@@ -27,6 +27,8 @@ Estou disponível para colaborações, feedbacks, questionamentos - ou só conve
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rodrigo-em%C3%ADdio-pereira-de-carvalho-6b5377236/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rodrigoemidio70@gmail.com)
+---
+
 
 # Hello, I’m Rodrigo! 👋
 
